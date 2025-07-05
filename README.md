@@ -158,7 +158,7 @@
 
 
 
-##🎓💼Professional Journey
+<h1>🎓💼Professional Journey</h1>
 
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#4f46e5', 'primaryTextColor': '#f8fafc', 'primaryBorderColor': '#4f46e5', 'lineColor': '#06b6d4', 'secondaryColor': '#818cf8', 'tertiaryColor': '#0f172a', 'nodeBorder': '#4f46e5' }}}%%
