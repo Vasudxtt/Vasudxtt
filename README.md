@@ -4,7 +4,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p justify-center>
+<p align="center">
 &nbsp; <a href="https://bsky.app/profile/vasudxtt.bsky.social" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/100/bluesky.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/vasudxtt/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/vasudutt-pareek-105087221" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
