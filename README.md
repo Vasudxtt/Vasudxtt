@@ -133,7 +133,7 @@
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://img.icons8.com/ios-filled/100/github.png" width="48" height="48" alt="GitHub" />
+        <img src="https://img.icons8.com/plasticine/100/github.png width="48" height="48" alt="GitHub" />
       <br>Github
     </td>
      <td align="center" width="96">
