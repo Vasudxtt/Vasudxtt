@@ -220,7 +220,7 @@ timeline
     <td>
       <p align="center"><b>Feel Good Inc.<br>Gorillaz,De La Soul</b></p>
       <div align="center">
-      <button>⏪</button>  
+      <button cursor ="pointer">⏪</button>  
       <button>⏸</button>  
       <button>⏩</button>
       </div>
