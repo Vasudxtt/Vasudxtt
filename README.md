@@ -211,3 +211,22 @@ timeline
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+
+<table border="1">
+  <tr>
+    <td>
+      <img src="https://via.placeholder.com/100" alt="Unicorn DJ" width="100" height="100">
+    </td>
+    <td>
+      <p><b>Toxic<br>BoyWithUke</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <button>⏪</button>  
+      <button>⏸</button>  
+      <button>⏩</button>
+    </td>
+  </tr>
+</table>
+
