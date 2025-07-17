@@ -215,7 +215,7 @@ timeline
 <table>
   <tr>
     <td>
-      <img src="https://media4.giphy.com/media/1gbqIc1fK8QgR3bHL7/giphy.gif?cid=790b7611a2f696d51a46ce892e420e77735707466a4abd3b&rid=giphy.gif&ct=g"" width="90">
+      <img src="https://media4.giphy.com/media/1gbqIc1fK8QgR3bHL7/giphy.gif?cid=790b7611a2f696d51a46ce892e420e77735707466a4abd3b&rid=giphy.gif&ct=g"" width="100">
     </td>
     <td>
       <p><b>Feel Good Inc.<br>Gorillaz,De La Soul</b></p>
@@ -224,13 +224,6 @@ timeline
       <button>⏸</button>  
       <button>⏩</button>
       </div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <button>⏪</button>  
-      <button>⏸</button>  
-      <button>⏩</button>
     </td>
   </tr>
 </table>
