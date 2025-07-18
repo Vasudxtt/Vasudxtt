@@ -201,7 +201,7 @@ timeline
 
 
 <!-- visiter Count-->
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
+<!--<div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/Vasudxtt/count.svg">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30"> -->
