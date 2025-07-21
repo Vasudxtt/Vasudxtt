@@ -183,7 +183,9 @@ timeline
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 📊 GitHub Stats:
-
+![Vasudxtt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasudxtt&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+![Vasudxtt's Stats](https://github-readme-stats.vercel.app/api?username=Vasudxtt&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![Vasudxtt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vasudxtt&theme=midnight-purple&hide_border=true)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
